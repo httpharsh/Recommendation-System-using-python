@@ -1,0 +1,5 @@
+Execute main.ipynb First:
+
+Before running app.py, you must execute the Jupyter Notebook file main.ipynb.
+
+This will generate cosine_sim_matrix.npy, which is required for movie and series recommendations.
